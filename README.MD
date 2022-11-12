@@ -1,3 +1,6 @@
+# Welcome to the Eventrx Explanation!
+This will explain overall what's included within this web application, not alot of information here but it's got the basic information for you.
+
 | Guest Account | Customer Account | Organiser Account | Administrator Account |
 | :---         |     :---      |     :---     |          :--- |
 | Login (email, password and social logins)   | View the main hompegae     | View revenue statistics    | Manage all user accounts |
